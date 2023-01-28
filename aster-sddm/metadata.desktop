@@ -1,0 +1,14 @@
+[SddmGreeterTheme]
+Name=aster
+Description=Aster sddm theme
+Author=Sahan Rasanjana
+Type=sddm-theme
+Version=0.4
+Website=https://github.com/asterlinux/sddm
+Screenshot=preview.png
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Email=sahan.user@gmail.com
+Theme-Id=aster
+Theme-API=2.0

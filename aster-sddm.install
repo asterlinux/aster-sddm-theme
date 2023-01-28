@@ -1,0 +1,6 @@
+post_install() {
+  echo "To use this theme, add the following lines to "
+  echo "/etc/sddm.conf:"
+  echo "[Theme]"
+  echo "Current=aster"
+}
