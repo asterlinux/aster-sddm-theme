@@ -10,3 +10,5 @@
 <p align="center">Sddm theme</a>.
 </p>
 
+<p align="center">This theme is based on https://github.com/icaho/Swish</a>.
+</p>
