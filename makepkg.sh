@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/fish
 
 tar -cf aster-sddm.tar.gz aster-sddm/
 
