@@ -1,5 +1,4 @@
 # Maintainer: Sahan Rasanjana <sahan.user@gmail.com>
-
 pkgname=hyperspace-sddm
 pkgver=1
 pkgrel=1
@@ -13,5 +12,5 @@ md5sums=('SKIP')
 
 package() {
   mkdir -p "${pkgdir}/usr/share/sddm/themes"
-  cp -r "${srcdir}/hyperspace-sddm" "${pkgdir}/usr/share/sddm/themes/hyperspace/"
+  cp -r "${srcdir}/hyperspace" "${pkgdir}/usr/share/sddm/themes/hyperspace/"
 }

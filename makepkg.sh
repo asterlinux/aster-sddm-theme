@@ -1,8 +1,8 @@
 #!/bin/fish
 
-tar -cf aster-sddm.tar.gz aster-sddm/
+tar -cf hyperspace-sddm.tar.gz hyperspace/
 
 makepkg -s --sign
 
-rm -rf aster-sddm.tar.gz
+rm -rf hyperspace-sddm.tar.gz
 rm -rf pkg/ src/ 
